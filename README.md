@@ -10,6 +10,12 @@ A full-stack business intelligence solution that analyzes Rossmann store perform
 View the interactive Tableau dashboard:
 (https://public.tableau.com/app/profile/dhiraj.pakhare/viz/RossmannRetailIntelligenceDashboardSalesEfficiencyPromoImpact/RossmannRetailIntelligenceDashboard?publish=yes)
 
+
+ 🖼️ Dashboard Preview
+
+![Rossmann Retail Dashboard](Dashboard/Rossmann-Dashboard.jpg)
+
+
 Features:
 - Total revenue and average sales per customer
 - Store efficiency scoring
