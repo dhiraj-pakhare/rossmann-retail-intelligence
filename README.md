@@ -8,7 +8,7 @@ A full-stack business intelligence solution that analyzes Rossmann store perform
 ------------------------------------------------------------
 
 View the interactive Tableau dashboard:
-https://public.tableau.com/views/YourDashboardName/Sheet1
+(https://public.tableau.com/app/profile/dhiraj.pakhare/viz/RossmannRetailIntelligenceDashboardSalesEfficiencyPromoImpact/RossmannRetailIntelligenceDashboard?publish=yes)
 
 Features:
 - Total revenue and average sales per customer
@@ -16,7 +16,7 @@ Features:
 - Top stores by revenue
 - Monthly sales trends
 - Promo vs non-promo revenue comparison
-- Interactive filters: promotion, day of week, store type, assortment
+- Interactive filters: promotion, day of week, store type, high vs low
 
 ------------------------------------------------------------
 🛠️ Tech Stack
@@ -25,8 +25,10 @@ Features:
 - Python: Data cleaning, transformation, and MySQL insertion
 - MySQL: Structured storage of cleaned sales data
 - Tableau: Dashboard visualization and storytelling
+
+future scope :
 - (Optional) Streamlit: For future AI/ML integration
-- (Optional) scikit-learn / XGBoost: For forecasting and promo scoring
+- (Optional) scikit-learn : For forecasting and promo scoring
 
 ------------------------------------------------------------
 📂 Project Structure
@@ -49,7 +51,7 @@ rossmann-retail-intelligence/
 │   └── data_pipeline.py
 ├── dashboard/
 │   ├── dashboard_info.md
-│   └── dashboard_screenshot.png
+│   └── Rossmann-Dashboard.jpg
 
 ------------------------------------------------------------
 ⚙️ How It Works
@@ -101,5 +103,5 @@ pip install -r requirements.txt
 ------------------------------------------------------------
 
 Built by Dhiraj  
-Connect on LinkedIn or explore more on GitHub: https://github.com/yourusername
+Connect on LinkedIn or explore more on GitHub: https://github.com/dhiraj-pakhare
 
